@@ -1,0 +1,37 @@
+
+
+
+
+.card-header{
+    background-color: rgb(241, 238, 216);
+}
+.section-header{
+    background-color: rgba(33, 190, 238, 0.555);
+    font-family: 'Permanent Marker', cursive;
+}
+.job{
+    text-decoration: underline;
+}
+.jumbotron{
+    background-color: rgba(6, 223, 223, 0);  
+    font-family: 'Permanent Marker', cursive;
+    
+}
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgba(236, 232, 208, 0.609);
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+}
+.navbar{
+    background-color: rgb(238, 230, 122);  
+    font-family: 'Kaushan Script', cursive;
+}
+body{
+    background-color: rgb(203, 230, 243);
+    font-family: 'Encode Sans SC', sans-serif;
+}
