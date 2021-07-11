@@ -11,6 +11,8 @@ class AboutInfo extends Component{
         return(
 <React.Fragment>
     <jumbotron> About </jumbotron>
+    
+    
 </React.Fragment>
         );
     }

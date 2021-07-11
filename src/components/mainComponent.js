@@ -8,8 +8,8 @@ import Contact from "./contactComponent";
 import Header from './headerComponent';
 import Footer from './footerComponent';
 import home from './homeComponent';
+import SubmitForm from './newsletterComponent';
 
-import {Route, Switch} from 'react-router-dom';
 import { render } from "@testing-library/react";
 
 class Main extends Component {
