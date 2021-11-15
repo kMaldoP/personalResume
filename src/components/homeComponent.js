@@ -30,23 +30,20 @@ class Home extends Component {
     <h5 className="job">
       7 Seas Brewing Company <small>Gig Harbor, Wa</small>
     </h5>
-    <h6>Taproom Assistant Manager</h6>
+    <h6>Bartender</h6>
     <div className="d-none d-sm-block">
       <ul>
         <li>
-          Responsible for taproom setup,operation, and breakdown on daily basis
+        Focus on serving guests and answering questions about product.
         </li>
         <li>
-          Responsible for staff with attention to levels of service an ensuring
-          a welcoming atmosphere.
+          Responsible for taproom setup, operation, or breakdown on any given shift to include stocking and rotating product, all in a fast paced enviroment.
         </li>
         <li>
-          Daily administration work, including safe reconciliation and
-          processeing sales and staff gratuities on a weekly basis
+         Continuous training in new and returning products to provide highest level of service and education.
         </li>
         <li>
-          Responsible for training and overseeing staff and taproom are upheld
-          to highest service standard
+         Cash handling and working extended, varying hours all in a fast moving enviroment while maintaining a warm and welcoming atmosphere.
         </li>
       </ul>
     </div>
@@ -119,7 +116,7 @@ class Home extends Component {
         2021.
       </li>
       <li>
-          Attend back end bootcamp through Nucampt starting Aug. 9th
+        Attending Back End development bootcamp with python and PostgresSQL  
       </li>
       <li>Strong communication and collaboration skills</li>
       <li>Ability to work unsupervised</li>
